@@ -540,6 +540,14 @@ body {
     font-weight: 700;
     text-decoration: none;
 }
+/* .proj_logos {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.proj_logos_div {
+    width: 100%;
+}
 .python_logo {
     width: 3.5%;
     height: 15%;
@@ -548,11 +556,11 @@ body {
     margin-left:6.5%
 }
 .csharp_logo {
-    width: 3.3%;
-    height: 15%;
-    position: absolute;
-    top: 78%;
-    margin-left:2%
+    max-width: 3.3%;
+    height: auto;
+    position: relative;
+    padding-top: 10%;
+    padding-left: 2%
 }
 .R_logo {
     width: 4%;
@@ -575,7 +583,7 @@ body {
     position: absolute;
     top: 78%;
     margin-left:2%
-}
+} */
 @font-face {
     font-family: "PoppinsRegular";
     src: url("../fonts/Poppins/Poppins-Regular.ttf") format("truetype"); 
