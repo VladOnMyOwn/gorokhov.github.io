@@ -1,0 +1,1183 @@
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+    .header__list li{
+        margin: 0px 20px;
+    }
+    .arrow {
+        top: 84vh;
+    }
+    .arrow img {
+        height: 78%;
+    }
+    .me_img {
+        margin: 100px 72.6% 100px 9%;
+        height: 50%;
+        width: 200px;
+    }
+    .block2_txt {
+        font-size: 24px;
+        margin: 8.5% 10% 8.5% 36%;
+    }
+    .block3 div {
+        font-size: 18px;
+        padding-top: 6.8%;
+        padding-bottom: 6.8%;
+    }
+    .b4_title {
+        font-size: 38px;
+    }
+    .b4_txt {
+        font-size: 16px;
+    }
+    .block5 {
+        height: 350px;
+    }
+    .mainStyle {
+        height: 250px;
+    }
+    .b5_b12_button1 div {
+        padding-top: 9px;
+        font-size: 12px;
+    }
+    .b5_b12_button2 div {
+        padding-top: 9px;
+        font-size: 12px;
+    }
+    .worktime_title {
+        top: 90px;
+        font-size: 38px;
+    }
+    .worktime_comment {
+        font-size: 16px;
+        top: 110px;
+    }
+    .mainStyle_b7 {
+        width: 70%;
+        height: 14%;
+    }
+    .block7 {
+        height: 1500px;
+    }
+    .b7_b1 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .b7_b2 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .b7_b3 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .b7_b4 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .b7_b5 {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .b7_b12_button1 {
+        width: 20%;
+        height: 20%;
+        top: 70%;
+        font-size: 12px;
+    }
+    .b7_b12_button1 div {
+        padding-top: 11px;
+    }
+
+    /* Logos */
+    .python_logo {
+        width: 3.9%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 7%;
+    }
+    .csharp_logo {
+        width: 3.6%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.2%;
+    }
+    .R_logo {
+        width: 4.3%;
+        height: 18%;
+        position: absolute;
+        top: 78%;
+        margin-left: 1.8%;
+        margin-top: -0.5%
+    }
+    .SQL_logo {
+        width: 3.8%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 7%;
+    }
+    .VBA_logo {
+        width: 3.8%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.2%;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+    .header__list li{
+        margin: 0px 20px;
+    }
+    .header__link{
+        font-size: 10px;
+    }
+    .header__body{
+        height: 58px;
+    }
+    .title {
+        font-size: 45px;
+    }
+    .title2 {
+        font-size: 25px;
+    }
+    .title_sub {
+        font-size: 20px;
+    }
+    .arrow {
+        top: 83vh;
+    }
+    .arrow img {
+        height: 65%;
+    }
+    .block2 {
+        height: 300px;
+    }
+    .me_img {
+        margin: 75px 72.6% 75px 9%;
+        height: 50%;
+        width: 150px;
+    }
+    .block2_txt {
+        font-size: 20px;
+        margin: 6.5% 10% 6.5% 36%;
+    }
+    .block3 {
+        height: 270px;
+    }
+    .block3 div {
+        font-size: 16px;
+        padding-top:5%;
+        padding-bottom:5%;
+        width: 77%;
+    }
+    .block4 {
+        height: 300px;
+    }
+    .b4_title {
+        top: 90px;
+        font-size: 36px;
+    }
+    .b4_txt {
+        top: 100px;
+        font-size: 16px;
+        width: 80%;
+    }
+    .block5 {
+        height: 270px;
+    }
+    .mainStyle {
+        height: 200px;
+    }
+    .b5_b12_button1 div {
+        padding-top: 7px;
+        font-size: 11px;
+    }
+    .b5_b12_button2 div {
+        padding-top: 7px;
+        font-size: 11px;
+    }
+    .block6 {
+        height: 260px;
+    }
+    .worktime_title {
+        font-size: 36px;
+        top: 68px;
+    }
+    .worktime_comment {
+        font-size: 14px;
+        top: 81px;
+        width: 55%;
+    }
+    .mainStyle_b7 {
+        width: 75%;
+        height: 13.9%;
+    }
+    .block7 {
+        height: 1500px;
+    }
+    .b7_b1 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 5%
+    }
+    .b7_b2 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 24%
+    }
+    .b7_b3 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 29%
+    }
+    .b7_b4 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 34%
+    }
+    .b7_b5 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 39%
+    }
+    .b7_b12_txt1 {
+        font-size: 14px;
+    }
+    .b7_b12_txt3 {
+        font-size: 14px;
+    }
+    .b7_b12_button1 {
+        width: 35%;
+        height: 20%;
+        top: 68%;
+        margin: 0% 32.5%;
+    }
+    .b7_b12_button1 div {
+        padding-top: 11px;
+        font-size: 12px;
+    }
+    .contact {
+        height: 350px;
+    }
+    .contact_comment {
+        top: 45px;
+    }
+    .contact_telMail {
+        top: 80px;
+        font-size: 26px;
+    }
+    .contact_name {
+        top: 100px;
+    }
+    .vk {
+        top: 150px;
+        height: 45px;
+        width: 45px;
+    }
+    .inst {
+        top: 150px;
+        height: 45px;
+        width: 61px;
+    }
+    .yt {
+        top: 150px;
+        height: 45px;
+        width: 45px;
+    }
+    .linkedin {
+        top: 150px;
+        left: 10px;
+        height: 43px;
+        width: 43px;
+    }
+
+    /* Logos */
+    .python_logo {
+        width: 4.4%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 8.6%;
+    }
+    .csharp_logo {
+        width: 4.1%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 3.2%;
+    }
+    .R_logo {
+        width: 5%;
+        height: 19%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.8%;
+        margin-top: -0.6%;
+    }
+    .SQL_logo {
+        width: 4.2%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 8.6%;
+    }
+    .VBA_logo {
+        width: 4.3%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 3.2%;
+    }
+}
+
+/* Small Devices, Tablets (+ burger menu) */
+@media only screen and (max-width: 768px) {
+    .header__link{
+        font-size: 22px;
+    }
+    .header__body{
+        justify-content: left;
+    }
+    .title {
+        font-size: 38px;
+    }
+    .title2 {
+        font-size: 18px;
+    }
+    .title_sub {
+        font-size: 15px;
+    }
+    .arrow img {
+        height: 45%;
+        width: 8%;
+    }
+    .arrow {
+        top: 82vh;
+    }
+    .block2 {
+        height: 260px;
+    }
+    .me_img {
+        margin: 65px 74.6% 65px 7%;
+        height: 50%;
+        width: 130px;
+    }
+    .block2_txt {
+        font-size: 16px;
+        margin: 7.7% 7% 7.7% 38%;
+    }
+    .block3 {
+        height: 250px;
+    }
+    .block3 div {
+        font-size: 12px;
+        padding-top: 8.6%;
+        padding-bottom: 8.6%;
+        width: 77%;
+    }
+    .block4 {
+        height: 210px;
+    }
+    .b4_title {
+        top: 65px;
+        font-size: 30px;
+    }
+    .b4_txt {
+        top: 75px;
+        font-size: 12px;
+        width: 90%;
+    }
+    .block5 {
+        height: 170px;
+    }
+    .mainStyle {
+        height: 120px;
+    }
+    .b5_b12_button1 div {
+        padding-top: 4px;
+        font-size: 7px;
+    }
+    .b5_b12_button2 div {
+        padding-top: 4px;
+        font-size: 7px;
+    }
+    .block6 {
+        height: 230px;
+    }
+    .worktime_title {
+        font-size: 30px;
+        top: 70px;
+    }
+    .worktime_comment {
+        font-size: 12px;
+        top: 80px;
+        width: 70%;
+    }
+    .mainStyle_b7 {
+        width: 75%;
+        height: 14.9%;
+    }
+    .block7 {
+        height: 1000px;
+    }
+    .b7_b1 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 6%;
+    }
+    .b7_b2 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 24%;
+    }
+    .b7_b3 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 27.3%;
+    }
+    .b7_b4 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 30.6%;
+    }
+    .b7_b5 {
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        top: 33.9%;
+    }
+    .b7_b12_txt1 {
+        top: 24%;
+        font-size: 11px;
+    }
+    .b7_b12_txt3 {
+        font-size: 11px;
+    }
+    .b7_b12_button1 {
+        width: 25%;
+        height: 15%;
+        top: 78%;
+        margin: 0% 37.5%;
+    }
+    .b7_b12_button1 div {
+        padding-top: 5px;
+        font-size: 8px;
+    }
+    .contact {
+        height: 300px;
+    }
+    .contact_comment {
+        top: 40px;
+        font-size: 14px;
+    }
+    .contact_telMail {
+        top: 70px;
+        font-size: 20px;
+    }
+    .contact_name {
+        top: 90px;
+        font-size: 18px;
+    }
+    .vk {
+        top: 130px;
+        height: 45px;
+        width: 45px;
+    }
+    .inst {
+        top: 130px;
+        height: 45px;
+        width: 61px;
+    }
+    .yt {
+        top: 130px;
+        height: 45px;
+        width: 45px;
+    }
+    .linkedin {
+        top: 130px;
+        left: 10px;
+        height: 43px;
+        width: 43px;
+    }
+
+    /* Menu */
+    body.lock{
+        overflow: hidden;
+    }
+    .header:before{
+        background-color: rgba(45,12,117);
+    }
+    .header__body{
+        height: 50px;
+    }
+    .header__burger {
+        display: block;
+        position: relative;
+        width: 30px;
+        height: 20px;
+        z-index: 3;
+    }
+    .header__burger span{
+        position: absolute;
+        background-color: white;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        top: 9px;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before,
+    .header__burger:after{
+        content: '';
+        background-color: white;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before{
+        top: 0;
+    }
+    .header__burger:after{
+        bottom: 0;
+    }
+    .header__burger.active span{
+        transform: scale(0);
+    }
+    .header__burger.active:before{
+        transform: rotate(45deg);
+        top: 9px;
+    }
+    .header__burger.active:after{
+        transform: rotate(-45deg);
+        bottom: 9px;
+    }
+    .header__menu{
+        position: fixed;
+        top: -120%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(45,12,117,.9);
+        padding: 70px 10px 20px 0px;
+        transition: all 0.5s ease 0s;
+        overflow: auto;
+    }
+    .header__menu.active{
+        top: 0;
+    }
+    .header__list {
+        display: block;
+    }
+    .header__list li{
+        margin: 0px 0px 20px -10px;
+    }
+
+    /* Logos */
+    .python_logo {
+        width: 5.6%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 10%;
+    }
+    .csharp_logo {
+        width: 5.3%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 3.2%;
+    }
+    .R_logo {
+        width: 6.2%;
+        height: 19%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.8%;
+        margin-top: -0.9%
+    }
+    .SQL_logo {
+        width: 5.6%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 10%;
+    }
+    .VBA_logo {
+        width: 5.7%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 3.2%;
+    }
+}
+
+/* Extra Small Devices, Phones (+ burger menu) */
+@media only screen and (max-width: 480px) {
+    .header__link{
+        font-size: 18px;
+    }
+    .header__body{
+        justify-content: left;
+    }
+    .title {
+        font-size: 28px;
+    }
+    .title2 {
+        font-size: 18px;
+    }
+    .title_sub {
+        font-size: 11px;
+    }
+    .arrow img {
+        height: 28%;
+        width: 8%;
+    }
+    .arrow {
+        top: 81vh;
+    }
+    .block2 {
+        height: 200px;
+    }
+    .me_img {
+        margin: 50px 76.6% 50px 5%;
+        height: 50%;
+        width: 100px;
+    }
+    .block2_txt {
+        font-size: 10px;
+        margin: 11.8% 5% 11.8% 40%;
+    }
+    .block3 {
+        height: 200px;
+    }
+    .block3 div {
+        font-size: 10px;
+        padding-top:7%;
+        padding-bottom:7%;
+        width: 77%;
+    }
+    .block4 {
+        height: 150px;
+    }
+    .b4_title {
+        top: 50px;
+        font-size: 20px;
+    }
+    .b4_txt {
+        top: 55px;
+        font-size: 10px;
+        width: 90%;
+    }
+    .block5 {
+        height: 120px;
+    }
+    .mainStyle {
+        height: 80px;
+    }
+    .b5_b12_button1 div {
+        padding-top: 2px;
+        font-size: 5px;
+    }
+    .b5_b12_button2 div {
+        padding-top: 2px;
+        font-size: 5px;
+    }
+    .block6 {
+        height: 170px;
+    }
+    .worktime_title {
+        font-size: 20px;
+        top: 48px;
+    }
+    .worktime_comment {
+        font-size: 10px;
+        top: 54px;
+        width: 70%;
+    }
+    .block7 {
+        height: 800px;
+    }
+    .mainStyle_b7 {
+        width: 90%;
+        height: 13.9%;
+    }
+    .b7_b1 {
+        margin-left: 5%;
+        margin-right: 5%;
+        top: 5%;
+    }
+    .b7_b2 {
+        margin-left: 5%;
+        margin-right: 5%;
+        top: 24%;
+    }
+    .b7_b3 {
+        margin-left: 5%;
+        margin-right: 5%;
+        top: 29%;
+    }
+    .b7_b4 {
+        margin-left: 5%;
+        margin-right: 5%;
+        top: 34%;
+    }
+    .b7_b5 {
+        margin-left: 5%;
+        margin-right: 5%;
+        top: 39%;
+    }
+    .b7_b12_txt1 {
+        font-size: 8px;
+    }
+    .b7_b12_txt3 {
+        font-size: 8px;
+    }
+    .b7_b12_button1 {
+        width: 38%;
+        height: 15%;
+        top: 78%;
+        margin: 0% 31%;
+    }
+    .b7_b12_button1 div {
+        padding-top: 4px;
+        font-size: 7px;
+    }
+    .contact {
+        height: 240px;
+    }
+    .contact_comment {
+        top: 36px;
+        font-size: 10px;
+    }
+    .contact_telMail {
+        top: 65px;
+        font-size: 16px;
+    }
+    .contact_name {
+        top: 80px;
+        font-size: 14px;
+    }
+    .vk {
+        top: 100px;
+        height: 40px;
+        width: 40px;
+    }
+    .inst {
+        top: 100px;
+        height: 38px;
+        width: 54px;
+    }
+    .yt {
+        top: 100px;
+        height: 38px;
+        width: 38px;
+    }
+    .linkedin {
+        top: 100px;
+        left: 8px;
+        height: 36px;
+        width: 36px;
+    }
+
+    /* Menu */
+    body.lock{
+        overflow: hidden;
+    }
+    .header:before{
+        background-color: rgba(45,12,117);
+    }
+    .header__body{
+        height: 40px;
+    }
+    .header__burger {
+        display: block;
+        position: relative;
+        width: 30px;
+        height: 20px;
+        z-index: 3;
+    }
+    .header__burger span{
+        position: absolute;
+        background-color: white;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        top: 9px;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before,
+    .header__burger:after{
+        content: '';
+        background-color: white;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before{
+        top: 1px;
+    }
+    .header__burger:after{
+        bottom: 1px;
+    }
+    .header__burger.active span{
+        transform: scale(0);
+    }
+    .header__burger.active:before{
+        transform: rotate(45deg);
+        top: 9px;
+    }
+    .header__burger.active:after{
+        transform: rotate(-45deg);
+        bottom: 9px;
+    }
+    .header__menu{
+        position: fixed;
+        top: -120%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(45,12,117,.9);
+        padding: 70px 10px 20px 0px;
+        transition: all 0.5s ease 0s;
+        overflow: auto;
+    }
+    .header__menu.active{
+        top: 0;
+    }
+    .header__list {
+        display: block;
+    }
+    .header__list li{
+        margin: 0px 0px 20px -10px;
+    }
+
+    /* Logos */
+    .python_logo {
+        width: 4.4%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 8%;
+    }
+    .csharp_logo {
+        width: 4.2%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.5%;
+    }
+    .R_logo {
+        width: 5.2%;
+        height: 18%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.3%;
+        margin-top: -0.5%
+    }
+    .SQL_logo {
+        width: 4.5%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 8%;
+    }
+    .VBA_logo {
+        width: 4.3%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 2.5%;
+    }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+    .header__link{
+        font-size: 10px;
+    }
+    .header__body{
+        justify-content: left;
+    }
+    .header__body{
+        height: 30px;
+    }
+    .title {
+        font-size: 18px;
+    }
+    .title2 {
+        font-size: 12px;
+    }
+    .title_sub {
+        font-size: 7px;
+    }
+    .arrow img {
+        height: 26%;
+        width: 8%;
+    }
+    .arrow {
+        top: 80vh;
+    }
+    .block2 {
+        height: 140px;
+    }
+    .me_img {
+        margin: 35px 79.6% 35px 3%;
+        height: 50%;
+        width: 70px;
+    }
+    .block2_txt {
+        font-size: 7px;
+        margin: 12.5% 6% 12.5% 40%;
+    }
+    .block3 {
+        height: 120px;
+    }
+    .block3 div {
+        font-size: 6px;
+        padding-top:8.5%;
+        padding-bottom:8.5%;
+        width: 77%;
+    }
+    .block4 {
+        height: 100px;
+    }
+    .b4_title {
+        top: 32px;
+        font-size: 12px;
+    }
+    .b4_txt {
+        top: 38px;
+        font-size: 6px;
+        width: 90%;
+    }
+    .block5 {
+        height: 80px;
+    }
+    .mainStyle {
+        height: 50px;
+    }
+    .b5_b12_button1 div {
+        padding-top: 1px;
+        font-size: 4px;
+    }
+    .b5_b12_button2 div {
+        padding-top: 1px;
+        font-size: 4px;
+    }
+    .block6 {
+        height: 120px;
+    }
+    .worktime_title {
+        font-size: 12px;
+        top: 38px;
+    }
+    .worktime_comment {
+        font-size: 6px;
+        top: 42px;
+        width: 70%;
+    }
+    .block7 {
+        height: 660px;
+    }
+    .mainStyle_b7 {
+        width: 70%;
+        height: 15%;
+    }
+    .b7_b1 {
+        margin-left: 15%;
+        margin-right: 15%;
+        top: 4.5%;
+    }
+    .b7_b2 {
+        margin-left: 15%;
+        margin-right: 15%;
+        top: 23.5%;
+    }
+    .b7_b3 {
+        margin-left: 15%;
+        margin-right: 15%;
+        top: 27.5%;
+    }
+    .b7_b4 {
+        margin-left: 15%;
+        margin-right: 15%;
+        top: 31.5%;
+    }
+    .b7_b5 {
+        margin-left: 15%;
+        margin-right: 15%;
+        top: 35.5%;
+    }
+    .b7_b12_txt1 {
+        top: 18%;
+        font-size: 6px;
+    }
+    .b7_b12_txt3 {
+        font-size: 6px;
+    }
+    .b7_b12_button1 {
+        width: 54%;
+        height: 15%;
+        top: 78%;
+        margin: 0% 23%;
+    }
+    .b7_b12_button1 div {
+        padding-top: 3px;
+        font-size: 6px;
+    }
+    .contact {
+        height: 180px;
+    }
+    .contact_comment {
+        top: 26px;
+        font-size: 8px;
+    }
+    .contact_telMail {
+        top: 46px;
+        font-size: 10px;
+    }
+    .contact_name {
+        top: 64px;
+        font-size: 12px;
+    }
+    .vk {
+        top: 85px;
+        height: 25px;
+        width: 25px;
+    }
+    .inst {
+        top: 85px;
+        height: 23px;
+        width: 31px;
+    }
+    .yt {
+        top: 85px;
+        height: 23px;
+        width: 23px;
+    }
+    .linkedin {
+        top: 85px;
+        left: 8px;
+        height: 21px;
+        width: 21px;
+    }
+
+    /* Menu */
+    body.lock{
+        overflow: hidden;
+    }
+    .header:before{
+        background-color: rgba(45,12,117);
+    }
+    .header__body{
+        height: 28px;
+    }
+    .header__burger {
+        display: block;
+        position: relative;
+        width: 30px;
+        height: 20px;
+        z-index: 3;
+    }
+    .header__burger span{
+        position: absolute;
+        background-color: white;
+        left: 0;
+        width: 70%;
+        height: 2px;
+        top: 9px;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before,
+    .header__burger:after{
+        content: '';
+        background-color: white;
+        position: absolute;
+        width: 70%;
+        height: 2px;
+        left: 0;
+        transition: all 0.3s ease 0s;
+    }
+    .header__burger:before{
+        top: 3px;
+    }
+    .header__burger:after{
+        bottom: 3px;
+    }
+    .header__burger.active span{
+        transform: scale(0);
+    }
+    .header__burger.active:before{
+        transform: rotate(45deg);
+        top: 9px;
+    }
+    .header__burger.active:after{
+        transform: rotate(-45deg);
+        bottom: 9px;
+    }
+    .header__menu{
+        position: fixed;
+        top: -120%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(45,12,117,.9);
+        padding: 70px 10px 20px 0px;
+        transition: all 0.5s ease 0s;
+        overflow: auto;
+    }
+    .header__menu.active{
+        top: 0;
+    }
+    .header__list {
+        display: block;
+    }
+    .header__list li{
+        margin: 0px 0px 20px -10px;
+    }
+
+    /* Logos */
+    .python_logo {
+        width: 7.2%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 12%;
+    }
+    .csharp_logo {
+        width: 6.85%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 4%;
+    }
+    .R_logo {
+        width: 7.7%;
+        height: 17%;
+        position: absolute;
+        top: 78%;
+        margin-left: 3.5%;
+        margin-top: -0.6%;
+    }
+    .SQL_logo {
+        width: 7%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 12%;
+    }
+    .VBA_logo {
+        width: 7%;
+        height: 15%;
+        position: absolute;
+        top: 78%;
+        margin-left: 4%;
+    }
+}
