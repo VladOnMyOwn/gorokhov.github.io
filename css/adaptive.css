@@ -18,10 +18,8 @@
         font-size: 24px;
         margin: 8.5% 10% 8.5% 36%;
     }
-    .block3 div {
-        font-size: 18px;
-        padding-top: 6.8%;
-        padding-bottom: 6.8%;
+    .b3_title {
+        font-size: 38px;
     }
     .b4_title {
         font-size: 38px;
@@ -168,11 +166,8 @@
     .block3 {
         height: 270px;
     }
-    .block3 div {
-        font-size: 16px;
-        padding-top:5%;
-        padding-bottom:5%;
-        width: 77%;
+    .b3_title {
+        font-size: 36px;
     }
     .block4 {
         height: 300px;
@@ -373,11 +368,11 @@
     .block3 {
         height: 250px;
     }
-    .block3 div {
-        font-size: 12px;
-        padding-top: 8.6%;
-        padding-bottom: 8.6%;
-        width: 77%;
+    .b3_title {
+        font-size: 30px;
+    }
+    .myskills_img {
+        max-width: 50%;
     }
     .block4 {
         height: 210px;
@@ -653,13 +648,13 @@
         margin: 11.8% 5% 11.8% 40%;
     }
     .block3 {
-        height: 200px;
+        height: 150px;
     }
-    .block3 div {
-        font-size: 10px;
-        padding-top:7%;
-        padding-bottom:7%;
-        width: 77%;
+    .b3_title {
+        font-size: 20px;
+    }
+    .myskills_img {
+        max-width: 50%;
     }
     .block4 {
         height: 150px;
@@ -937,13 +932,13 @@
         margin: 12.5% 6% 12.5% 40%;
     }
     .block3 {
-        height: 120px;
+        height: 100px;
     }
-    .block3 div {
-        font-size: 6px;
-        padding-top:8.5%;
-        padding-bottom:8.5%;
-        width: 77%;
+    .b3_title {
+        font-size: 12px;
+    }
+    .myskills_img {
+        max-width: 50%;
     }
     .block4 {
         height: 100px;
